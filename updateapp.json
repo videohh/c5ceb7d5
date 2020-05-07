@@ -1,9 +1,9 @@
 {
-  "versionCode": 11033,
-  "versionName": "0.0.7",
+  "versionCode": 11057,
+  "versionName": "1.1.0",
   "size": "",
   "md5": "",
-  "description": "无描述",
+  "description": "",
   "apkurl": [
     {
       "source":"蓝奏云",
@@ -11,7 +11,7 @@
     },
     {
       "source":"github",
-      "url": "https://github.com/videohh/c5ceb7d5/raw/master/apk/Video_0.0.7_11033.apk"
+      "url": "https://github.com/videohh/c5ceb7d5/raw/master/apk/Video_1.1.0_11057.apk"
     }
   ]
 }
