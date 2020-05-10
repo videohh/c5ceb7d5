@@ -1,9 +1,9 @@
 {
-  "versionCode": 11057,
-  "versionName": "1.1.0",
+  "versionCode": 11109,
+  "versionName": "1.1.1",
   "size": "",
   "md5": "",
-  "description": "",
+  "description": " *修复严重崩溃问题，提高稳定性\n **列表刷新不出来可尝试开启VPN",
   "apkurl": [
     {
       "source":"蓝奏云",
@@ -11,7 +11,7 @@
     },
     {
       "source":"github",
-      "url": "https://github.com/videohh/c5ceb7d5/raw/master/apk/Video_1.1.0_11057.apk"
+      "url": "https://github.com/videohh/c5ceb7d5/raw/master/apk/Video_1.1.1_11109.apk"
     }
   ]
 }
